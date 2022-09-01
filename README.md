@@ -1,1 +1,1 @@
-# frontend-vs-backend
+No starter code is provided. Start from scratch!
