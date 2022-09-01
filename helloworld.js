@@ -1,6 +1,3 @@
 // Write your JavaScript code here
-function sayHello() {
-    console.log("Hello World");
- }
-
-sayHello();
+let str = "Hello World!";
+console.log(str);
